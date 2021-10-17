@@ -184,3 +184,36 @@ SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2095098761055207424}
 
 
 
+2021-10-17 16:14:24.636281
+历史定位签到模式
+多人签到模式T2020211154
+当前IP：52.160.83.197,
+
+ 美国加利福尼亚州圣克拉拉Microsoft公司
+
+系统时间：2021-10-17 16:14:29
+UTC时间：2021-10-17 17:14:24
+北京时间：2021-10-18 00:14:24
+北京时间与系统时间误差：7:59:54.800056
+2021-10-17 16:14:29.200024:T2020211154签到开始
+cookie文件存在
+cookie文件加载成功
+NAME华志伟
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME华志伟
+定位 117.055924，28.914503，江西省景德镇市
+{"status":0,"result":{"location":{"lng":117.06781367403555,"lat":28.917287356841773},"formatted_address":"江西省景德镇市乐平市S411","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"景德镇市","city_level":2,"district":"乐平市","town":"","town_code":"","adcode":"360281","street":"S411","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":225}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E6%99%AF%E5%BE%B7%E9%95%87%E5%B8%82&district=%E4%B9%90%E5%B9%B3%E5%B8%82&street=%E6%99%AF%E5%BE%B7%E9%95%87%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E6%99%AF%E5%BE%B7%E9%95%87%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E6%99%AF%E5%BE%B7%E9%95%87%E5%B8%82&bdistrict=%E4%B9%90%E5%B9%B3%E5%B8%82&bstreet=%E6%99%AF%E5%BE%B7%E9%95%87%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E6%99%AF%E5%BE%B7%E9%95%87%E5%B8%82&sdistrict=%E4%B9%90%E5%B9%B3%E5%B8%82&lng=117.055933&lat=28.914493&sfby=1
+签到成功
+2021-10-17 16:15:40.984233:T2020211154签到结束
+1人全部签到成功!
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2095391591103365120}
+2021-10-17 16:15:43.739161程序结束
+######################################################################
+
+
+
+
