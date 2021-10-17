@@ -5,10 +5,11 @@ signs = 1
 
 # 单人签到学号，部分学校可能用一卡通号等代替。可以到 https://fxgl.jx.edu.cn/你的高校代码/  自己尝试一下
 # 仅当选择单人签到，即上面signs = 0时才需要配置，否则可以忽略
-yourID = 'T2020504104'
+yourID = 0
 # 多人签到学号组，部分学校可能用一卡通号等代替。可以到  https://fxgl.jx.edu.cn/你的高校代码/   自己尝试一下
 # 仅当选择多人签到，即上面signs = 1时才需要配置，否则可以忽略，使用英语逗号 , 将每个学号分开哦，需要是同一个学校，两侧的引号别丢了
-IDs = '2020504104'
+IDs ='T2020504104,T2020504105,T2020504103,T2020702150'
+
 
 # 高校代码，详见GitHub项目介绍
 # 多人签到暂不支持多个学校签到（你想干嘛？）
@@ -43,7 +44,7 @@ server_chan =0
 # SERVER酱sendkey，两侧的引号别丢了
 # 查看网址 sct.ftqq.com/sendkey
 # 免费版可每日发送五条推送
-sendkey = '你的key'
+sendkey ='SCT85577TezkkyTiUeBqaIxf0zsz0s2Q6'
 
 # ##################################程序开始#########################################
 import time
@@ -431,10 +432,11 @@ if __name__ == "__main__":
             print(str(nowtime) + ':' + signID + '开始')
             nowtime = datetime.datetime.now()
             log.write(str(nowtime) + ':' + signID + '签到开始\n')
-            return_state = start(int(signID))
+            return_state = start(str(signID))
             nowtime = datetime.datetime.now()
             log.write(str(nowtime) + ':' + signID + '签到结束\n')
             print('\n\n\n')
             statistics(return_state)
             time.sleep(float(random.uniform(0, 0.25)))
     exit_program()
+
