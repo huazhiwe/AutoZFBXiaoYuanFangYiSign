@@ -162,3 +162,120 @@ SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2115289463886086147}
 
 
 
+2021-10-31 18:44:31.814386
+历史定位签到模式
+多人签到模式T2020504104,T2020504105,T2020504103,T2020702150,T2020205131,T2020218127,T2020612125
+当前IP：137.135.73.223,
+
+ 美国Microsoft
+
+系统时间：2021-10-31 18:44:37
+UTC时间：2021-10-31 18:44:32
+北京时间：2021-11-01 02:44:32
+北京时间与系统时间误差：7:59:54.677147
+2021-10-31 18:44:37.322928:T2020504104签到开始
+cookie文件存在
+cookie文件加载成功
+NAME徐静茹
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME徐静茹
+定位 115.787617，28.654838，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.79909134885658,"lat":28.65794047156348},"formatted_address":"江西省南昌市红谷滩区风华西大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"风华西大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.78762&lat=28.654844&sfby=1
+签到成功
+2021-10-31 18:44:49.290328:T2020504104签到结束
+2021-10-31 18:44:49.508204:T2020504105签到开始
+cookie文件存在
+cookie文件加载成功
+NAME龚琳
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME龚琳
+定位 115.787767，28.654783，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.79923379289107,"lat":28.65788039575178},"formatted_address":"江西省南昌市红谷滩区风华西大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"风华西大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.787763&lat=28.654783&sfby=1
+签到成功
+2021-10-31 18:45:00.598096:T2020504105签到结束
+2021-10-31 18:45:00.698519:T2020504103签到开始
+cookie文件存在
+cookie文件加载成功
+NAME肖云欣
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME肖云欣
+定位 115.842264，28.589647，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.85378759957576,"lat":28.592024927534419},"formatted_address":"江西省南昌市南昌县象湖二路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"南昌县","town":"","town_code":"","adcode":"360121","street":"象湖二路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E5%8D%97%E6%98%8C%E5%8E%BF&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E5%8D%97%E6%98%8C%E5%8E%BF&lng=115.842266&lat=28.589642&sfby=1
+签到成功
+2021-10-31 18:45:12.087202:T2020504103签到结束
+2021-10-31 18:45:12.293283:T2020702150签到开始
+cookie文件存在
+cookie文件加载成功
+NAME孙易
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME孙易
+定位 115.896337，28.675614，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.90762076141592,"lat":28.678431656858309},"formatted_address":"江西省南昌市西湖区孺子路20号","business":"孺子路,系马桩,八一广场","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"西湖区","town":"","town_code":"","adcode":"360103","street":"孺子路","street_number":"20号","direction":"附近","distance":"9"},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E8%A5%BF%E6%B9%96%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E8%A5%BF%E6%B9%96%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E8%A5%BF%E6%B9%96%E5%8C%BA&lng=115.896329&lat=28.675608&sfby=1
+签到成功
+2021-10-31 18:45:24.095984:T2020702150签到结束
+2021-10-31 18:45:24.197443:T2020205131签到开始
+cookie文件存在
+cookie文件加载成功
+NAME高林
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME高林
+定位 115.7888，28.651015，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.80027122747885,"lat":28.65411732848244},"formatted_address":"江西省南昌市红谷滩区嘉言路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"嘉言路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.788804&lat=28.651017&sfby=1
+签到成功
+2021-10-31 18:45:35.123044:T2020205131签到结束
+2021-10-31 18:45:35.174491:T2020218127签到开始
+cookie文件存在
+cookie文件加载成功
+NAME徐翔
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME徐翔
+定位 115.937238，28.674194，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.94854818151322,"lat":28.676982750588335},"formatted_address":"江西省南昌市青山湖区上海路","business":"湖坊,南昌大学,北京东路","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"青山湖区","town":"","town_code":"","adcode":"360111","street":"上海路","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E9%9D%92%E5%B1%B1%E6%B9%96%E5%8C%BA&lng=115.937232&lat=28.674185&sfby=1
+签到成功
+2021-10-31 18:45:53.718702:T2020218127签到结束
+2021-10-31 18:45:53.869368:T2020612125签到开始
+cookie文件存在
+cookie文件加载成功
+NAME蔡慧玲
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME蔡慧玲
+定位 115.788349，28.655238，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.79981288478287,"lat":28.658338497561478},"formatted_address":"江西省南昌市红谷滩区风华西大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","adcode":"360113","street":"风华西大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.788344&lat=28.655238&sfby=1
+签到成功
+2021-10-31 18:46:14.047925:T2020612125签到结束
+7人全部签到成功!
+SERVER发送成功：{"errcode":0,"errmsg":"ok","msgid":2115836872047362048}
+2021-10-31 18:46:17.301801程序结束
+######################################################################
+
+
+
+
