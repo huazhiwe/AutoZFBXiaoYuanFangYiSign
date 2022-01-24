@@ -1,0 +1,68 @@
+2022-01-24 09:38:19.377648
+历史定位签到模式
+多人签到模式T2020218127,T2020218126,T2020218128,T2020205131,T2020603116
+当前IP：13.90.137.109,
+
+ 美国Microsoft公司
+
+系统时间：2022-01-24 09:38:24
+UTC时间：2022-01-24 09:38:19
+北京时间：2022-01-24 17:38:19
+北京时间与系统时间误差：7:59:54.787816
+2022-01-24 09:38:24.212247:T2020218127签到开始
+cookie文件存在
+cookie文件加载成功
+NAME徐翔
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME徐翔
+定位 118.250149，28.492085，江西省上饶市
+{"status":0,"result":{"location":{"lng":118.26176273565759,"lat":28.494508402986474},"formatted_address":"江西省上饶市广丰区","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"上饶市","city_level":2,"district":"广丰区","town":"","town_code":"","distance":"","direction":"","adcode":"361103","street":"","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":364}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B8%8A%E9%A5%B6%E5%B8%82&district=%E5%B9%BF%E4%B8%B0%E5%8C%BA&street=%E4%B8%8A%E9%A5%B6%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B8%8A%E9%A5%B6%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B8%8A%E9%A5%B6%E5%B8%82&bdistrict=%E5%B9%BF%E4%B8%B0%E5%8C%BA&bstreet=%E4%B8%8A%E9%A5%B6%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B8%8A%E9%A5%B6%E5%B8%82&sdistrict=%E5%B9%BF%E4%B8%B0%E5%8C%BA&lng=118.250156&lat=28.492088&sfby=1
+签到成功
+2022-01-24 09:38:41.846750:T2020218127签到结束
+2022-01-24 09:38:41.923840:T2020218126签到开始
+cookie文件存在
+cookie文件加载成功
+NAME黄健豪
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+已经签到
+2022-01-24 09:38:53.979765:T2020218126签到结束
+2022-01-24 09:38:54.106766:T2020218128签到开始
+cookie文件存在
+cookie文件加载成功
+NAME周俊
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+已经签到
+2022-01-24 09:39:09.823736:T2020218128签到结束
+2022-01-24 09:39:10.026253:T2020205131签到开始
+cookie文件存在
+cookie文件加载成功
+NAME高林
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+已经签到
+2022-01-24 09:39:18.645174:T2020205131签到结束
+2022-01-24 09:39:18.746739:T2020603116签到开始
+cookie文件存在
+cookie文件加载成功
+NAME赵书颖
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+已经签到
+2022-01-24 09:39:28.000762:T2020603116签到结束
+5人全部签到成功!
+2022-01-24 09:39:28.130664程序结束
+######################################################################
+
+
+
+
