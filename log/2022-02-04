@@ -1,0 +1,88 @@
+2022-02-04 18:37:08.231524
+历史定位签到模式
+多人签到模式T2020218127,T2020218126,T2020218128,T2020205131,T2020603116
+当前IP：52.150.10.141,
+
+ 美国Microsoft公司
+
+系统时间：2022-02-04 18:37:13
+UTC时间：2022-02-04 18:37:08
+北京时间：2022-02-05 02:37:08
+北京时间与系统时间误差：7:59:54.670916
+2022-02-04 18:37:13.329173:T2020218127签到开始
+cookie文件存在
+cookie文件加载成功
+NAME徐翔
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME徐翔
+定位 118.228399，28.569285，江西省上饶市
+{"status":0,"result":{"location":{"lng":118.23995974804982,"lat":28.572022503582397},"formatted_address":"江西省上饶市广丰区","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"上饶市","city_level":2,"district":"广丰区","town":"","town_code":"","distance":"","direction":"","adcode":"361103","street":"","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":364}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B8%8A%E9%A5%B6%E5%B8%82&district=%E5%B9%BF%E4%B8%B0%E5%8C%BA&street=%E4%B8%8A%E9%A5%B6%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B8%8A%E9%A5%B6%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B8%8A%E9%A5%B6%E5%B8%82&bdistrict=%E5%B9%BF%E4%B8%B0%E5%8C%BA&bstreet=%E4%B8%8A%E9%A5%B6%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B8%8A%E9%A5%B6%E5%B8%82&sdistrict=%E5%B9%BF%E4%B8%B0%E5%8C%BA&lng=118.2284&lat=28.569284&sfby=1
+签到成功
+2022-02-04 18:37:58.551849:T2020218127签到结束
+2022-02-04 18:37:58.710324:T2020218126签到开始
+cookie文件存在
+cookie文件加载成功
+NAME黄健豪
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME黄健豪
+定位 118.278194，28.260014，江西省上饶市
+{"status":0,"result":{"location":{"lng":118.28973541401746,"lat":28.262627634766898},"formatted_address":"江西省上饶市广丰区S201","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"上饶市","city_level":2,"district":"广丰区","town":"","town_code":"","distance":"","direction":"","adcode":"361103","street":"S201","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":364}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B8%8A%E9%A5%B6%E5%B8%82&district=%E5%B9%BF%E4%B8%B0%E5%8C%BA&street=%E4%B8%8A%E9%A5%B6%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B8%8A%E9%A5%B6%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B8%8A%E9%A5%B6%E5%B8%82&bdistrict=%E5%B9%BF%E4%B8%B0%E5%8C%BA&bstreet=%E4%B8%8A%E9%A5%B6%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B8%8A%E9%A5%B6%E5%B8%82&sdistrict=%E5%B9%BF%E4%B8%B0%E5%8C%BA&lng=118.278203&lat=28.260018&sfby=1
+签到成功
+2022-02-04 18:38:20.701587:T2020218126签到结束
+2022-02-04 18:38:20.874017:T2020218128签到开始
+cookie文件存在
+cookie文件加载成功
+NAME周俊
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME周俊
+定位 118.274611，28.462079，江西省上饶市
+{"status":0,"result":{"location":{"lng":118.2861827576604,"lat":28.46466322942815},"formatted_address":"江西省上饶市广丰区S202","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"上饶市","city_level":2,"district":"广丰区","town":"","town_code":"","distance":"","direction":"","adcode":"361103","street":"S202","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":364}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B8%8A%E9%A5%B6%E5%B8%82&district=%E5%B9%BF%E4%B8%B0%E5%8C%BA&street=%E4%B8%8A%E9%A5%B6%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B8%8A%E9%A5%B6%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B8%8A%E9%A5%B6%E5%B8%82&bdistrict=%E5%B9%BF%E4%B8%B0%E5%8C%BA&bstreet=%E4%B8%8A%E9%A5%B6%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B8%8A%E9%A5%B6%E5%B8%82&sdistrict=%E5%B9%BF%E4%B8%B0%E5%8C%BA&lng=118.274609&lat=28.46208&sfby=1
+签到成功
+2022-02-04 18:38:32.396667:T2020218128签到结束
+2022-02-04 18:38:32.559838:T2020205131签到开始
+cookie文件存在
+cookie文件加载成功
+NAME高林
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME高林
+定位 114.461748，26.985378，江西省吉安市
+{"status":0,"result":{"location":{"lng":114.47331730974213,"lat":26.988378667535949},"formatted_address":"江西省吉安市吉安县G319(厦成线)","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"吉安市","city_level":2,"district":"吉安县","town":"","town_code":"","distance":"","direction":"","adcode":"360821","street":"G319(厦成线)","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":318}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%90%89%E5%AE%89%E5%B8%82&district=%E5%90%89%E5%AE%89%E5%8E%BF&street=%E5%90%89%E5%AE%89%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%90%89%E5%AE%89%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%90%89%E5%AE%89%E5%B8%82&bdistrict=%E5%90%89%E5%AE%89%E5%8E%BF&bstreet=%E5%90%89%E5%AE%89%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%90%89%E5%AE%89%E5%B8%82&sdistrict=%E5%90%89%E5%AE%89%E5%8E%BF&lng=114.461749&lat=26.985377&sfby=1
+签到成功
+2022-02-04 18:38:54.805200:T2020205131签到结束
+2022-02-04 18:38:54.844274:T2020603116签到开始
+cookie文件存在
+cookie文件加载成功
+NAME赵书颖
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME赵书颖
+定位 114.134461，26.889812，江西省吉安市
+{"status":0,"result":{"location":{"lng":114.14631759349887,"lat":26.892755976689405},"formatted_address":"江西省吉安市永新县G356(湄西线)","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"吉安市","city_level":2,"district":"永新县","town":"","town_code":"","distance":"","direction":"","adcode":"360830","street":"G356(湄西线)","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":318}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%90%89%E5%AE%89%E5%B8%82&district=%E6%B0%B8%E6%96%B0%E5%8E%BF&street=%E5%90%89%E5%AE%89%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%90%89%E5%AE%89%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%90%89%E5%AE%89%E5%B8%82&bdistrict=%E6%B0%B8%E6%96%B0%E5%8E%BF&bstreet=%E5%90%89%E5%AE%89%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%90%89%E5%AE%89%E5%B8%82&sdistrict=%E6%B0%B8%E6%96%B0%E5%8E%BF&lng=114.134471&lat=26.889817&sfby=1
+签到成功
+2022-02-04 18:39:06.577493:T2020603116签到结束
+5人全部签到成功!
+2022-02-04 18:39:06.650956程序结束
+######################################################################
+
+
+
+
