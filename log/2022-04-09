@@ -1,0 +1,88 @@
+2022-04-09 18:44:38.464361
+历史定位签到模式
+多人签到模式T2020218127,T2020218126,T2020218128,T2020205131,T2020603116
+当前IP：168.61.79.41,
+
+ 美国Microsoft公司
+
+系统时间：2022-04-09 18:44:43
+UTC时间：2022-04-09 19:44:38
+北京时间：2022-04-10 02:44:38
+北京时间与系统时间误差：7:59:54.505778
+2022-04-09 18:44:43.494331:T2020218127签到开始
+cookie文件存在
+cookie文件加载成功
+NAME徐翔
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME徐翔
+定位 115.793989，28.660004，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.80544134508162,"lat":28.66312877520693},"formatted_address":"江西省南昌市红谷滩区五四西大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","distance":"","direction":"","adcode":"360113","street":"五四西大道","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.793987&lat=28.660013&sfby=1
+签到成功
+2022-04-09 18:45:14.519583:T2020218127签到结束
+2022-04-09 18:45:14.618298:T2020218126签到开始
+cookie文件存在
+cookie文件加载成功
+NAME黄健豪
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME黄健豪
+定位 115.786366，28.655949，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.79783507963565,"lat":28.65903260182404},"formatted_address":"江西省南昌市红谷滩区S49(枫生快速路)","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","distance":"","direction":"","adcode":"360113","street":"S49(枫生快速路)","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.786359&lat=28.655943&sfby=1
+签到成功
+2022-04-09 18:45:29.500957:T2020218126签到结束
+2022-04-09 18:45:29.628066:T2020218128签到开始
+cookie文件存在
+cookie文件加载成功
+NAME周俊
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME周俊
+定位 115.786878，28.655050，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.79834913275947,"lat":28.658136460913995},"formatted_address":"江西省南昌市红谷滩区S49(枫生快速路)","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","distance":"","direction":"","adcode":"360113","street":"S49(枫生快速路)","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.786875&lat=28.655044&sfby=1
+签到成功
+2022-04-09 18:45:42.848901:T2020218128签到结束
+2022-04-09 18:45:42.925916:T2020205131签到开始
+cookie文件存在
+cookie文件加载成功
+NAME高林
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME高林
+定位 115.786740，28.655878，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.79820951483569,"lat":28.658962799718464},"formatted_address":"江西省南昌市红谷滩区S49(枫生快速路)","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","distance":"","direction":"","adcode":"360113","street":"S49(枫生快速路)","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.786735&lat=28.655871&sfby=1
+签到成功
+2022-04-09 18:45:58.627835:T2020205131签到结束
+2022-04-09 18:45:58.772260:T2020603116签到开始
+cookie文件存在
+cookie文件加载成功
+NAME赵书颖
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME赵书颖
+定位 115.792375，28.654378，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.80382654117246,"lat":28.657489924913198},"formatted_address":"江西省南昌市红谷滩区五四西大道28栋","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","distance":"85","direction":"东","adcode":"360113","street":"五四西大道","street_number":"28栋"},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.79237&lat=28.654378&sfby=1
+签到成功
+2022-04-09 18:46:17.627734:T2020603116签到结束
+5人全部签到成功!
+2022-04-09 18:46:17.720034程序结束
+######################################################################
+
+
+
+
